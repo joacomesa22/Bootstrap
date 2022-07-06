@@ -1,0 +1,19 @@
+span{
+    color: #A0CD60;
+}
+.effect{
+    transition: all 0.3s;
+}
+.effect:hover{
+    box-shadow: 0 25px 50px -12px rgb(0, 0, 0, 0.9);
+    transform: translateY(-20px);
+}
+.effect-2{
+    transition: all 0.3s;
+}
+.effect-2:hover{
+    transform: scale(1.3);
+}
+.font-1{
+    font-size: 2.5rem;
+}
